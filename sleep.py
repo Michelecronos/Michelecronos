@@ -1,6 +1,6 @@
 import time
 
-s = "Hello, World!"
+s = "Hello World!"
 
 for char in s:
     print(char, end='', flush=True)
